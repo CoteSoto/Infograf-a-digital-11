@@ -1,1 +1,1 @@
-#Entrega clase 11 Infografía digital
+Entrega clase 11 Infografía digital
