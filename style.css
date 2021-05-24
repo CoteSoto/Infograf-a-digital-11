@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Roboto:300,400,700|Monoton);
+#socialMedia a,.fullContent.social a,header .container.logo h4.desktop,select{background-repeat:no-repeat}*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:black;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+h1,h2,h3, p.lead{
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+
+h1{
+  text-align: center;  
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+}
+
+h4{
+  font-size:0.8rem;
+}
+
+h5{
+  font-size:1rem;
+  color:silver;
+}
